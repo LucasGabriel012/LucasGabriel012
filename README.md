@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Front-End`**
 
-<p Me chamo Lucas Gabriel Costa Coutinho, tenho 21 anos e atualmente trabalho como Desenvolvedor Web Autonônomo com experiência na criação de sites profissionais utilizando WordPress, Elementor, HTML, CSS, JavaScript e Banco de Dados SQL.</p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IESB e Técnico em Desenvolvimento de Sistemas no Senac. Tenho facilidade em me adaptar rapidamente a novas tecnologias, o que me permite enfrentar desafios de forma eficiente e agregar valor aos projetos. Sempre busco alinhar minhas habilidades técnicas e criatividade para entregar soluções personalizadas e impactantes, com foco em resultados e crescimento profissional.
+<p>Me chamo Lucas Gabriel Costa Coutinho, tenho 21 anos e atualmente trabalho como Desenvolvedor Web Autônomo com experiência na criação de sites profissionais utilizando WordPress, Elementor, HTML, CSS, JavaScript e Banco de Dados SQL.</p>
+
+<p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IESB e Técnico em Desenvolvimento de Sistemas no Senac. Tenho facilidade em me adaptar rapidamente a novas tecnologias, o que me permite enfrentar desafios de forma eficiente e agregar valor aos projetos. Sempre busco alinhar minhas habilidades técnicas e criatividade para entregar soluções personalizadas e impactantes, com foco em resultados e crescimento profissional.</p>
 
 <p align="left">
     <a href="https://github.com/LucasGabriel012">
