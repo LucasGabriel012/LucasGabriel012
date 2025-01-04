@@ -19,15 +19,7 @@ Me chamo Lucas Gabriel Costa Coutinho, tenho 21 anos e atualmente trabalho como 
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"
         />
     </a>
-    <a href="https://github.com/LucasGabriel012">
-        <img 
-            alt="Portfólio" 
-            title="Conferir Portfólio" 
-            src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
-        />
-    </a>
-</p>
-
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias
